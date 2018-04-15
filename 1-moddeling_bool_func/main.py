@@ -191,6 +191,7 @@ def plot_command(mode):
 
     _, errors = learning(f, x, activation_function, derivative_activ_func)
     pyplot.plot(errors)
+    pyplot.grid(True)
     pyplot.show()
 
 
