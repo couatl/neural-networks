@@ -31,6 +31,7 @@ class Network:
         self.learn_k = learn_k
 
         self.epoch = 0
+        self.errors = []
 
         # Первые N значений в первый нейрон следующего слоя, вторые N во второй и т.д.
         self.weight_input = [[0 for x in range(N)] for y in range(J)]
@@ -103,7 +104,8 @@ class Network:
         """
 
         error = 1
-        while error > 0.01:
+        self.errors.append(error)
+        while error > 0.04:
             input_net, hidden_layer, hidden_net, output = self.calculate_output(self.x)
             # print("CALCULATE OUTPUT", input_net, hidden_layer, hidden_net, output)
 
@@ -111,6 +113,7 @@ class Network:
             # print("CALCULATE ERROR", output_error, hidden_error)
 
             error = self.error(output, self.t)
+            self.errors.append(error)
             print("Ошибка({}) = {}, выход = {}".format(self.epoch, error, output))
 
             self.epoch += 1

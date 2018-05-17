@@ -37,6 +37,16 @@ def start(N, J, M, x, t):
     network = Network(N, J, M, x, t, learn_k, f, df)
 
     network.learning()
+    plot(network.errors)
+
+def plot(errors):
+    """
+    :param errors: значения ошибки на эпохах
+    """
+    pyplot.plot(errors)
+    pyplot.grid(True)
+    pyplot.savefig('errors.png')
+    pyplot.show()
 
 
 if __name__ == '__main__':
