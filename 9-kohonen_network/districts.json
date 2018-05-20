@@ -1,0 +1,1044 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.683080442639,
+          55.790769621275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Управление городским имуществом в ВАО",
+          "global_id": 4412122,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Сокольники",
+          "Index": 101014,
+          "Address": "улица Стромынка, дом 3",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479752539547,
+          55.786128812746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Управление городским имуществом в СЗАО",
+          "global_id": 4412123,
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Хорошёво-Мнёвники",
+          "Index": 123585,
+          "Address": "улица Народного Ополчения, дом 33, корпус 2",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.215204374065,
+          55.990650866779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Управление городским имуществом в ЗелАО",
+          "global_id": 4412124,
+          "AdmArea": "Зеленоградский административный округ",
+          "District": "район Савёлки",
+          "Index": 124482,
+          "Address": "Центральный проспект, дом 1",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.314739994584,
+          55.488006270728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Управление городским имуществом в ТиНАО",
+          "global_id": 4412125,
+          "AdmArea": "Троицкий административный округ",
+          "District": "поселение Троицк",
+          "Index": 142191,
+          "Address": "микрорайон Сосны, дом 4",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": "кабинет 119"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.635162991581,
+          55.734567093402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Служба Одного окна по жилищным вопросам в ЦАО",
+          "global_id": 4412126,
+          "AdmArea": "Центральный административный округ",
+          "District": "район Замоскворечье",
+          "Index": 109992,
+          "Address": "улица Бахрушина, дом 18, стр.1",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654009319345,
+          55.705940987006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Управление городским имуществом в ЮАО",
+          "global_id": 4412127,
+          "AdmArea": "Южный административный округ",
+          "District": "Даниловский район",
+          "Index": 109280,
+          "Address": "Автозаводская улица, дом 10",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.449688854152,
+          55.728809856619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Управление городским имуществом в ЗАО",
+          "global_id": 4412128,
+          "AdmArea": "Западный административный округ",
+          "District": "район Фили-Давыдково",
+          "Index": 121108,
+          "Address": "улица Ивана Франко, дом 8, корпус 2",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.714129947234,
+          55.752267985231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Управление городским имуществом в ЮВАО",
+          "global_id": 4412129,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Лефортово",
+          "Index": 111024,
+          "Address": "шоссе Энтузиастов, дом 11А, корпус 4",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527975896622,
+          55.798771210975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Управление городским имуществом в САО",
+          "global_id": 4412130,
+          "AdmArea": "Северный административный округ",
+          "District": "Хорошёвский район",
+          "Index": 125167,
+          "Address": "улица Викторенко, дом 4, корпус 1",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.551383684529,
+          55.698451403479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Управление городским имуществом в ЮЗАО",
+          "global_id": 4412131,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "Гагаринский район",
+          "Index": 119333,
+          "Address": "Университетский проспект, дом 6, корпус 1",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.592340697265,
+          55.811551411342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Управление городским имуществом в СВАО",
+          "global_id": 4412132,
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "Бутырский район",
+          "Index": 127254,
+          "Address": "улица Руставели, дом 10, корпус 3",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": null,
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": null,
+          "ExtraInfo": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534524812698,
+          55.75061597705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 1200,
+        "VersionNumber": 4,
+        "ReleaseNumber": 10,
+        "RowId": null,
+        "Attributes": {
+          "ShortName": "Служба Одного окна по земельным и нежилым имущественным вопросам в ЦАО",
+          "global_id": 861748391,
+          "AdmArea": "Центральный административный округ",
+          "District": "Пресненский район",
+          "Index": 123317,
+          "Address": "1-й Красногвардейский проезд, дом 21, стр. 1",
+          "Phone": "(495) 777-77-77",
+          "VisitingHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfVisitingHours": "-",
+          "ChiefName": "Афанасьева Евгения Александровна",
+          "DocumentsIssuanceHours": [
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "понедельник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "вторник"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "среда"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "четверг"
+            },
+            {
+              "Hours": "08:00-17:00",
+              "DayOfWeek": "пятница"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "суббота"
+            },
+            {
+              "Hours": "выходной",
+              "DayOfWeek": "воскресенье"
+            }
+          ],
+          "ClarificationOfDocumentsIssuanceHours": "-",
+          "ExtraInfo": "-"
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
