@@ -6,7 +6,7 @@
 import sys
 
 from matplotlib import pyplot
-from perceptron import Network
+from network import Network
 
 import math
 
@@ -77,10 +77,11 @@ if __name__ == '__main__':
     t = [-1, -1]
 
     while 1:
-        command = raw_input()
+        command = input()
 
         if command == 'start':
             start(N, J, M, x, t)
+            print(start_text)
         elif command == 'help':
             print(start_text)
         elif command == '' or command == 'exit':
