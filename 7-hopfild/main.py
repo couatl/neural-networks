@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-from Tkinter import *
+from tkinter import *
 from hopfild_network import HopfildNetwork
 
 

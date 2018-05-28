@@ -29,6 +29,7 @@ class HopfildNetwork:
                 self.weight[j][k] = image1[j] * image1[k] + image2[j] * image2[k] + image3[j] * image3[k]
                 if j == k:
                     self.weight[j][k] = 0
+        print(self.weight)
 
     def recognize(self, input_signal):
         """
